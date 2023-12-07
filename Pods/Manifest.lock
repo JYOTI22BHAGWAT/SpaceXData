@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.7.1)
+  - ImageSlideshow (1.8.3):
+    - ImageSlideshow/Core (= 1.8.3)
+  - ImageSlideshow/Core (1.8.3)
+  - JGProgressHUD (2.2)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - KSToastView (0.5.7)
+  - RappleProgressHUD (4.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - ImageSlideshow (~> 1.8.3)
+  - JGProgressHUD
+  - Kingfisher (~> 5.0)
+  - KSToastView
+  - RappleProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ImageSlideshow
+    - JGProgressHUD
+    - Kingfisher
+    - KSToastView
+    - RappleProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  KSToastView: aeb0ca50b44e9568b6f95b2d1ec53a3f016b50fc
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 2c1349968500a86f0e97768df895745fe8a0c09e
+
+COCOAPODS: 1.12.1
